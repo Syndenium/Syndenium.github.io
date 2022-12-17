@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://github.com/Syndenium/Syndenium.github.io/blob/main/overlay/base.png);
+    background: url(Syndenium.github.io/overlay/base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .xbox.disconnected {
-    background: url(https://github.com/Syndenium/Syndenium.github.io/blob/main/overlay/disconnected.png);
+    background: url(Syndenium.github.io/overlay/disconnected.png);
 }
 
 .xbox.disconnected div {
@@ -17,7 +17,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://github.com/Syndenium/Syndenium.github.io/blob/main/overlay/abxy.png);
+    background: url(Syndenium.github.io/overlay/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -62,7 +62,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://github.com/Syndenium/Syndenium.github.io/blob/main/overlay/stick.png);
+    background: url(Syndenium.github.io/overlay/stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
